@@ -14,3 +14,5 @@ else:
 
 print('Goodbye from ' +
       sys.argv[0])
+
+print('Hi from Jo')
